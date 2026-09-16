@@ -1,0 +1,3 @@
+Python developer with skills in Python, SQL, Machine Learning, Pandas,
+Scikit-learn, FastAPI, Git and data analysis. Experience building machine
+learning projects and APIs is preferred.

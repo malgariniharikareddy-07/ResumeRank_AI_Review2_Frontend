@@ -1,0 +1,1 @@
+Python developer with experience in Python, SQL, Pandas, Machine Learning, Scikit-learn, Git and data analysis. Built ML projects and REST APIs.
